@@ -1,2 +1,0 @@
-# gatsby-personal-site
- 
