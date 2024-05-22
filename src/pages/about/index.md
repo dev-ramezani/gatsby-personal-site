@@ -7,7 +7,7 @@ start: >
     Due to my great interest in computers and programming, I am studying computer engineering at Kashan University.
     Among the different branches of programming, I am very interested in the branch of internet site design, that's why I started learning different programming languages ​​from the summer of last year. In addition to being familiar with the following programming languages, I have also completed the ICDL course provided by the technical and professional organization.
 end: >
-    I'm trying to prepare a good resume for myself, that's why I have an account on GitHub and I put some of my completed projects in it, to view them, go to github.com/RMNProgrammer.
+    I'm trying to prepare a good resume for myself, that's why I have an account on GitHub and I put some of my completed projects in it, to view them, go to github.com/dev-ramezani.
     If you have a website design project, I will be happy to cooperate with you. To contact me, send an email to the following address: mohammadaminrmn.programmer@gmail.com
 intro:
   blurbs:

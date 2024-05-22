@@ -51,7 +51,7 @@ const Navbar = () => {
             <div className="navbar-brand">
               <a
                 className="navbar-item"
-                href="https://github.com/RMNProgrammer"
+                href="https://github.com/dev-ramezani"
                 target="_blank"
                 rel="noopener noreferrer"
               >
